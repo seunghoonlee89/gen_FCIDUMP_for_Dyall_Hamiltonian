@@ -1,0 +1,5 @@
+Generate FCIDUMP for Dyall Hamiltonian
+
+1. generate small active space FCIDUMP with effective one particle integrals
+2. solve the small active space problem
+3. generate Dyall Hamiltonian FCIDUMP with the density matrix
